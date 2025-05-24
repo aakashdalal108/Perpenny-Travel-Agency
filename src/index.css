@@ -3,5 +3,5 @@
 @import "tailwindcss";
 
 @theme{
-    --font-clash: "Clash Display", "sans-serif";;
+    --font-clash: "Clash Display", "sans-serif";
 }
